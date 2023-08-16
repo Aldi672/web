@@ -1,0 +1,12 @@
+@import url(https://id.allfont.net/allfont.css?fonts=boyarsky-normal);
+
+form,.dashboard{
+   transform: translate(50%, -50%);
+   position: absolute;
+   top: 50%;
+   right: 50%;
+   width: 300px;
+}
+.container {
+   font-family: 'Boyarsky Normal', arial !important;
+}
